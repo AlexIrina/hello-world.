@@ -1,3 +1,3 @@
 # hello-world.
 
-Second time creating a repository
+Hello good people :) My name is Alex and i like to eat apples...not really.
